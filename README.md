@@ -1,4 +1,18 @@
-# History-based Feature Selection (HBFS)
+# Feature Selection:
+
+### Filter based: (usually based on a criteria/metric)
+- mR-MR
+- other examples: correlation coefficient, mutual info., chi_2.
+
+### Wrapper based: (usually model based)
+- HBFS
+- other examples: forward selection, backward elimination, model based feature importances.
+
+# A. mR-MR: "minimum Redundancy - Maximum Relevance",
+For MRMR Feature selection: Refer here: : [https://github.com/smazzanti/mrmr](https://github.com/smazzanti/mrmr)
+
+
+# B. History-based Feature Selection (HBFS)
 
 ## Introduction
 
